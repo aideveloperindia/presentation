@@ -3,8 +3,6 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useSwipeable } from "react-swipeable";
-import html2canvas from "html2canvas";
-import { jsPDF } from "jspdf";
 import { Slide, Language, StudyMaterialData } from "@/app/types";
 
 interface PresentationViewerProps {
@@ -72,7 +70,6 @@ export default function PresentationViewer({ slides, language }: PresentationVie
   const handlers = useSwipeable({
     onSwipedLeft: () => nextSlide(),
     onSwipedRight: () => previousSlide(),
-    preventDefaultTouchmoveEvent: true,
     trackMouse: false,
   });
 
@@ -81,6 +78,10 @@ export default function PresentationViewer({ slides, language }: PresentationVie
     setGenerationProgress(0);
 
     try {
+      // Dynamically import client-side only libraries
+      const { jsPDF } = await import("jspdf");
+      const html2canvas = (await import("html2canvas")).default;
+
       // Fetch speaker notes markdown
       const response = await fetch("/assets/speaker-notes/SPEAKER_NOTES.md");
       if (!response.ok) {
@@ -278,6 +279,10 @@ export default function PresentationViewer({ slides, language }: PresentationVie
     setGenerationProgress(0);
 
     try {
+      // Dynamically import client-side only libraries
+      const { jsPDF } = await import("jspdf");
+      const html2canvas = (await import("html2canvas")).default;
+
       // Fetch study material JSON
       const response = await fetch("/materials/road_safety_study_material.json");
       if (!response.ok) {
@@ -479,6 +484,10 @@ export default function PresentationViewer({ slides, language }: PresentationVie
     setGenerationProgress(0);
 
     try {
+      // Dynamically import client-side only libraries
+      const { jsPDF } = await import("jspdf");
+      const html2canvas = (await import("html2canvas")).default;
+
       const pdf = new jsPDF({
         orientation: "landscape",
         unit: "mm",
