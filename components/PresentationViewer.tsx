@@ -736,22 +736,22 @@ export default function PresentationViewer({ slides, language }: PresentationVie
         </button>
 
         {/* Slide counter */}
-        <div className="absolute top-4 left-1/2 -translate-x-1/2 bg-white/90 backdrop-blur-sm px-6 py-2 rounded-full shadow-lg text-gray-700 font-medium">
+        <div className="absolute top-4 left-1/2 -translate-x-1/2 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full shadow-lg text-gray-700 text-xs font-medium">
           Slide {currentSlideIndex + 1} of {slides.length}
         </div>
 
         {/* Controls */}
-        <div className="absolute top-4 right-4 flex gap-3">
+        <div className="absolute top-4 right-4 flex gap-2">
           <button
             onClick={() => setShowThumbnails(!showThumbnails)}
-            className="bg-white/90 backdrop-blur-sm px-4 py-2 rounded-lg shadow-lg hover:bg-white transition-colors text-gray-700 font-medium focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="bg-white/90 backdrop-blur-sm px-2 py-1 rounded-lg shadow-lg hover:bg-white transition-colors text-gray-700 text-xs font-medium focus:outline-none focus:ring-2 focus:ring-blue-500"
             aria-label={showThumbnails ? "Hide thumbnails" : "Show thumbnails"}
           >
             {showThumbnails ? "Hide" : "Show"} Thumbnails
           </button>
           <button
             onClick={() => setAutoPlay(!autoPlay)}
-            className={`px-4 py-2 rounded-lg shadow-lg transition-colors font-medium focus:outline-none focus:ring-2 focus:ring-blue-500 ${
+            className={`px-2 py-1 rounded-lg shadow-lg transition-colors text-xs font-medium focus:outline-none focus:ring-2 focus:ring-blue-500 ${
               autoPlay
                 ? "bg-blue-600 text-white hover:bg-blue-700"
                 : "bg-white/90 backdrop-blur-sm text-gray-700 hover:bg-white"

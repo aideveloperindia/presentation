@@ -12,10 +12,22 @@ export default function Footer() {
           </div>
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
-            <p className="text-gray-400">
-              For inquiries, please contact your local RTA office or district
-              administration.
+            <p className="text-gray-400 mb-4">
+              For inquiries, please contact:
             </p>
+            <a
+              href="https://aideveloperindia.store/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block transition-transform hover:scale-105"
+            >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src="/logo-transparent.png"
+                alt="Aditya Nandagiri Logo"
+                className="h-12 w-auto"
+              />
+            </a>
           </div>
           <div>
             <h3 className="text-lg font-semibold mb-4">Copyright</h3>
