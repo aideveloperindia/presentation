@@ -1,0 +1,148 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "title_en": "Introduction — Why Road Safety Matters",
+      "title_te": "పరిచయం — రోడ్ సేఫ్టీ ఎందుకు ముఖ్యమైంది",
+      "content_en": "Road safety is not just about following rules—it's about protecting lives. Every year, thousands of accidents happen on Indian roads due to negligence, lack of awareness, and improper behavior. Understanding road safety helps us save lives, reduce injuries, and make our roads safer for everyone—pedestrians, cyclists, motorcyclists, and drivers.",
+      "content_te": "రోడ్ సేఫ్టీ అంటే కేవలం రూల్స్ follow చేయడం కాదు… మన ప్రాణాలను కాపాడుకోవడం. ప్రతి సంవత్సరం భారతదేశంలో అవగాహన లేకపోవడం, జాగ్రత్త తీసుకోకపోవడం వల్ల వేలకొద్దీ ప్రమాదాలు జరుగుతున్నాయి. రోడ్ సేఫ్టీ ను అర్థం చేసుకోవడం మన ప్రాణాలను, ఇతరుల ప్రాణాలను కాపాడుతుంది.",
+      "images": []
+    },
+    {
+      "id": 2,
+      "title_en": "Rules for Pedestrians",
+      "title_te": "పాదచారుల కోసం నియమాలు",
+      "content_en": "• Always use footpaths or designated walking areas when available.\n• Cross roads only at zebra crossings, foot overbridges, or subways.\n• Look left, right, and left again before crossing.\n• Never cross between parked vehicles.\n• Walk facing oncoming traffic if no footpath is available.\n• Use pedestrian signals at traffic lights.\n• Avoid using mobile phones while crossing roads.\n• Wear light-colored or reflective clothing at night.",
+      "content_te": "• ఫుట్‌పాత్ లేదా నడవడానికి నిర్దేశించిన ప్రదేశాలను మాత్రమే వాడండి.\n• రోడ్డును క్రాస్ చేయడానికి జీబ్రా క్రాసింగ్, ఫుట్ ఓవర్ బ్రిడ్జ్, లేదా సబ్‌వే మాత్రమే వాడండి.\n• రోడ్డును దాటే ముందు ఎడమ, కుడి, మళ్లీ ఎడమ చూసి నిర్ధారించుకోండి.\n• పార్క్ చేసిన వాహనాల మధ్య దాటకండి.\n• ఫుట్‌పాత్ లేకపోతే, వస్తున్న ట్రాఫిక్‌ను ఎదుర్కొంటూ నడవండి.\n• ట్రాఫిక్ లైట్‌ల వద్ద పాదచారుల సిగ్నల్‌ను follow చేయండి.\n• రోడ్డును దాటే సమయంలో మొబైల్ ఫోన్ వాడకండి.\n• రాత్రిపూట తెల్లని లేదా రిఫ్లెక్టివ్ దుస్తులు ధరించండి.",
+      "images": ["signs/pedestrian_crossing.png", "signs/footpath.png"]
+    },
+    {
+      "id": 3,
+      "title_en": "Rules for Two-Wheeler Riders",
+      "title_te": "రెండు-చక్రాల వాహనాల రైడర్స్ కోసం నియమాలు",
+      "content_en": "• Helmets are MANDATORY for both driver and pillion rider in Telangana.\n• Always wear ISI-certified helmets.\n• Fasten helmet straps properly.\n• Do not carry more than one pillion rider.\n• Maintain safe distance from other vehicles.\n• Use indicators while turning or changing lanes.\n• Never use mobile phone while riding.\n• Follow speed limits (typically 40 km/h in city areas).\n• Keep both hands on handlebars.\n• Avoid zigzag driving.",
+      "content_te": "• తెలంగాణలో డ్రైవర్ మరియు పిలియన్ రైడర్ రెండూ helmet తప్పక ధరించాలి.\n• ISI certified helmet మాత్రమే వాడండి.\n• Helmet strap ని సరిగ్గా బిగించండి.\n• ఒకటి కంటే ఎక్కువ పిలియన్ రైడర్‌లను తీసుకోకండి.\n• ఇతర వాహనాల నుండి సురక్షితమైన దూరం నిర్వహించండి.\n• turn చేయడం లేదా lane మార్చేటప్పుడు indicators వాడండి.\n• రైడింగ్ చేస్తున్నప్పుడు మొబైల్ ఫోన్ వాడకండి.\n• Speed limits follow చేయండి (సిటీ ప్రాంతాలలో సాధారణంగా 40 km/h).\n• రెండు చేతులు handlebar‌లపై ఉంచండి.\n• Zigzag driving avoid చేయండి.",
+      "images": ["signs/helmet_mandatory.png", "signs/two_wheeler.png"]
+    },
+    {
+      "id": 4,
+      "title_en": "Rules for Car Drivers",
+      "title_te": "కారు డ్రైవర్ల కోసం నియమాలు",
+      "content_en": "• Seatbelts are COMPULSORY for driver and all passengers.\n• Never drink and drive—it's a serious offense.\n• Follow speed limits:\n  - Residential areas: 30 km/h\n  - City roads: 50 km/h\n  - Highways: 80-100 km/h (as per signboards)\n• Maintain safe distance (3-second rule minimum).\n• Use indicators before turning or changing lanes.\n• Never use mobile phone while driving.\n• Give way to emergency vehicles (ambulance, fire truck).\n• Never overtake from the left side.\n• Park only in designated areas.",
+      "content_te": "• డ్రైవర్ మరియు అన్ని ప్రయాణికులకు seatbelt తప్పక ధరించాలి.\n• తాగి డ్రైవ్ చేయకండి—ఇది తీవ్రమైన నేరం.\n• Speed limits follow చేయండి:\n  - Residential areas: 30 km/h\n  - City roads: 50 km/h\n  - Highways: 80-100 km/h (signboard ప్రకారం)\n• సురక్షితమైన దూరం నిర్వహించండి (కనీసం 3-second rule).\n• turn లేదా lane మారే ముందు indicators వాడండి.\n• డ్రైవింగ్ చేస్తున్నప్పుడు మొబైల్ ఫోన్ వాడకండి.\n• Emergency vehicles (అంబులెన్స్, అగ్నిశమన వాహనం)కు దారి ఇవ్వండి.\n• ఎడమ వైపు నుండి overtake చేయకండి.\n• నిర్దేశించిన ప్రదేశాలలో మాత్రమే park చేయండి.",
+      "images": ["signs/seatbelt.png", "signs/speed_limit.png", "signs/no_parking.png"]
+    },
+    {
+      "id": 5,
+      "title_en": "School Children Safety Guidelines",
+      "title_te": "పాఠశాల పిల్లల సురక్షితత్వ మార్గదర్శకాలు",
+      "content_en": "• Always walk to school with parents or in groups.\n• Use designated school bus stops.\n• Wait for the bus in a safe place, away from traffic.\n• Board and alight from bus only when it's fully stopped.\n• Never run behind or in front of buses.\n• Wear bright/reflective school bags.\n• While cycling, wear helmets and use bicycle lanes if available.\n• Never cycle on busy roads alone.\n• Look out for vehicles when getting off school buses.\n• Follow traffic rules even when playing near roads.",
+      "content_te": "• ఎప్పుడూ తల్లిదండ్రులతో లేదా groups లో పాఠశాలకు వెళ్లండి.\n• నిర్దేశించిన school bus stops మాత్రమే వాడండి.\n• bus కోసం wait చేయడానికి ట్రాఫిక్‌కు దూరంగా సురక్షితమైన ప్రదేశాన్ని ఎంచుకోండి.\n• bus పూర్తిగా stop అయిన తర్వాత మాత్రమే ఎక్కండి లేదా దిగండి.\n• bus వెనకా లేదా ముందూ run చేయకండి.\n• bright/reflective school bags ధరించండి.\n• bicycle పై వస్తున్నప్పుడు helmet ధరించండి మరియు bicycle lane‌ను వాడండి.\n• busy roads‌లో ఒంటరిగా bicycle పై వెళ్లకండి.\n• school bus నుండి దిగేటప్పుడు వాహనాలను చూడండి.\n• రోడ్డుల వద్ద ఆడుతున్నప్పుడు కూడా traffic rules follow చేయండి.",
+      "images": ["signs/school_zone.png", "signs/school_bus.png"]
+    },
+    {
+      "id": 6,
+      "title_en": "Accident Prevention Techniques",
+      "title_te": "ప్రమాదాలను నివారించే పద్ధతులు",
+      "content_en": "• Maintain proper vehicle speed according to road conditions.\n• Keep vehicle in good condition (brakes, lights, tires).\n• Be extra cautious during rain, fog, or low visibility.\n• Avoid sudden braking or acceleration.\n• Never drive when tired or drowsy.\n• Stay alert and watch for unexpected situations.\n• Respect right of way rules.\n• Never assume other drivers will follow rules—drive defensively.\n• Use rear-view and side mirrors regularly.\n• Keep emergency contact numbers saved.",
+      "content_te": "• రోడ్డు పరిస్థితులకు అనుగుణంగా సరైన వాహన వేగాన్ని నిర్వహించండి.\n• వాహనాన్ని మంచి స్థితిలో ఉంచండి (brakes, lights, tires).\n• వర్షం, fog, లేదా తక్కువ visibility సమయంలో అదనపు జాగ్రత్త తీసుకోండి.\n• sudden braking లేదా acceleration avoid చేయండి.\n• tired లేదా drowsy గా ఉన్నప్పుడు డ్రైవ్ చేయకండి.\n• alertగా ఉండి, unexpected situations కోసం చూడండి.\n• right of way rules‌ను respect చేయండి.\n• ఇతర డ్రైవర్లు rules follow చేస్తారని assume చేయకండి—defensive driving చేయండి.\n• rear-view మరియు side mirrors‌ను నియమితంగా వాడండి.\n• emergency contact numbers‌ను save చేసి ఉంచండి.",
+      "images": []
+    },
+    {
+      "id": 7,
+      "title_en": "Do's & Don'ts on Roads",
+      "title_te": "రోడ్డులపై చేయవలసినవి మరియు చేయకూడనివి",
+      "content_en": "DO'S:\n• Always follow traffic signals and signs.\n• Maintain lane discipline.\n• Give way to pedestrians at crossings.\n• Use indicators before turning.\n• Keep vehicle documents (license, RC, insurance) up to date.\n• Respect traffic police instructions.\n• Help others in case of accidents.\n\nDON'TS:\n• Never drink and drive.\n• Don't use mobile phone while driving/riding.\n• Never jump traffic signals.\n• Don't overtake from the wrong side.\n• Never park in no-parking zones.\n• Don't honk unnecessarily, especially near hospitals and schools.\n• Never overload vehicles.\n• Don't drive without valid license.",
+      "content_te": "చేయవలసినవి:\n• ఎప్పుడూ traffic signals మరియు signs follow చేయండి.\n• lane discipline నిర్వహించండి.\n• crossings వద్ద పాదచారులకు దారి ఇవ్వండి.\n• turn చేయడానికి ముందు indicators వాడండి.\n• వాహన పత్రాలు (license, RC, insurance) updatedగా ఉంచండి.\n• traffic police సూచనలను respect చేయండి.\n• ప్రమాదాల సందర్భంలో ఇతరులకు సహాయం చేయండి.\n\nచేయకూడనివి:\n• తాగి డ్రైవ్ చేయకండి.\n• డ్రైవింగ్/రైడింగ్ చేస్తున్నప్పుడు మొబైల్ ఫోన్ వాడకండి.\n• traffic signals jump చేయకండి.\n• తప్పు వైపు నుండి overtake చేయకండి.\n• no-parking zones‌లో park చేయకండి.\n• అనవసరంగా horn వేయకండి, ముఖ్యంగా ఆసుపత్రులు మరియు పాఠశాలల వద్ద.\n• వాహనాలను overload చేయకండి.\n• valid license లేకుండా డ్రైవ్ చేయకండి.",
+      "images": []
+    },
+    {
+      "id": 8,
+      "title_en": "Emergency Awareness",
+      "title_te": "అత్యవసర అవగాహన",
+      "content_en": "• Ambulances have RIGHT OF WAY—always give way immediately.\n• Pull over to the left side when you hear ambulance sirens.\n• Fire trucks and police vehicles also have priority.\n• In case of accident, call:\n  - 108 (Emergency ambulance)\n  - 100 (Police)\n  - 101 (Fire)\n• Provide accurate location when calling emergency services.\n• Do not crowd around accident scenes—it blocks emergency vehicles.\n• If you witness an accident, help if safe, or inform authorities.\n• Keep a first-aid kit in your vehicle.",
+      "content_te": "• Ambulancesకు RIGHT OF WAY ఉంటుంది—ఎప్పుడూ వెంటనే దారి ఇవ్వండి.\n• ambulance siren విన్న వెంటనే ఎడమ వైపుకు pull over చేయండి.\n• fire trucks మరియు police vehicles కూడా priority కలిగి ఉంటాయి.\n• ప్రమాదం జరిగిన సందర్భంలో call చేయండి:\n  - 108 (Emergency ambulance)\n  - 100 (Police)\n  - 101 (Fire)\n• emergency services call చేసేటప్పుడు సజావుగా location ఇవ్వండి.\n• ప్రమాద ప్రాంతాల చుట్టూ crowd చేయకండి—ఇది emergency vehicles block చేస్తుంది.\n• ప్రమాదాన్ని చూస్తే, safeగా ఉంటే సహాయం చేయండి లేదా authoritiesకు inform చేయండి.\n• మీ వాహనంలో first-aid kit ఉంచండి.",
+      "images": ["signs/ambulance.png", "signs/emergency.png"]
+    },
+    {
+      "id": 9,
+      "title_en": "Traffic Signals",
+      "title_te": "ట్రాఫిక్ సిగ్నల్స్",
+      "content_en": "RED LIGHT:\n• STOP completely before the stop line.\n• Wait until signal turns green.\n• Never jump red lights—it's dangerous and illegal.\n\nYELLOW/AMBER LIGHT:\n• Prepare to stop.\n• If already crossed stop line, proceed carefully.\n• Do not speed up to beat the red light.\n\nGREEN LIGHT:\n• Proceed only when signal is green.\n• Check for pedestrians and other vehicles before moving.\n• Turn left only when allowed by signal or road marking.",
+      "content_te": "రెడ్ లైట్:\n• stop line ముందు పూర్తిగా stop చేయండి.\n• signal green అయ్యే వరకు wait చేయండి.\n• red lights jump చేయకండి—ఇది ప్రమాదకరమైనది మరియు చట్టవిరుద్ధం.\n\nయెల్లో/ఆంబర్ లైట్:\n• stop చేయడానికి సిద్ధం కావండి.\n• stop line cross చేసి ఉంటే, జాగ్రత్తగా proceed చేయండి.\n• red light beat చేయడానికి speed పెంచకండి.\n\nగ్రీన్ లైట్:\n• signal green అయినప్పుడు మాత్రమే proceed చేయండి.\n• move చేయడానికి ముందు pedestrians మరియు ఇతర vehicles check చేయండి.\n• signal లేదా road marking allow చేసినప్పుడు మాత్రమే left turn చేయండి.",
+      "images": ["signs/red_light.png", "signs/yellow_light.png", "signs/green_light.png"]
+    },
+    {
+      "id": 10,
+      "title_en": "Traffic Signs & Symbols — Mandatory Signs",
+      "title_te": "ట్రాఫిక్ సైన్స్ & సింబల్స్ — తప్పనిసరి సైన్స్",
+      "content_en": "These signs show actions you MUST take:\n\n• COMPULSORY RIGHT TURN — Turn right only\n• COMPULSORY LEFT TURN — Turn left only\n• COMPULSORY STRAIGHT — Go straight only\n• COMPULSORY SOUND HORN — Sound horn at bends\n• SPEED LIMIT — Maximum speed allowed (e.g., 40, 60 km/h)\n• ONE WAY — Traffic moves in one direction only\n• NO ENTRY — Entry prohibited\n• STOP — Come to complete stop\n• HELMET COMPULSORY — Must wear helmet\n• SEATBELT COMPULSORY — Must wear seatbelt",
+      "content_te": "ఈ signs మీరు తప్పక చేయవలసిన actions చూపిస్తాయి:\n\n• తప్పనిసరి కుడి turn — కుడి వైపు మాత్రమే turn\n• తప్పనిసరి ఎడమ turn — ఎడమ వైపు మాత్రమే turn\n• తప్పనిసరి straight — నేరుగా మాత్రమే వెళ్లండి\n• తప్పనిసరి horn — మలుపుల వద్ద horn వేయండి\n• Speed limit — అనుమతించబడిన గరిష్ట వేగం (ఉదా: 40, 60 km/h)\n• One way — ట్రాఫిక్ ఒక దిశలో మాత్రమే\n• No entry — entry నిషేధించబడింది\n• Stop — పూర్తిగా stop చేయండి\n• Helmet తప్పనిసరి — helmet తప్పక ధరించాలి\n• Seatbelt తప్పనిసరి — seatbelt తప్పక ధరించాలి",
+      "images": ["signs/mandatory_right.png", "signs/mandatory_left.png", "signs/speed_limit_40.png", "signs/one_way.png", "signs/no_entry.png", "signs/stop.png", "signs/helmet.png", "signs/seatbelt.png"]
+    },
+    {
+      "id": 11,
+      "title_en": "Traffic Signs & Symbols — Cautionary Signs",
+      "title_te": "ట్రాఫిక్ సైన్స్ & సింబల్స్ — హెచ్చరిక సైన్స్",
+      "content_en": "These signs warn about upcoming hazards:\n\n• DANGEROUS CURVE — Slow down, curve ahead\n• RIGHT HAIR PIN BEND — Sharp right curve\n• LEFT HAIR PIN BEND — Sharp left curve\n• NARROW BRIDGE — Bridge width is narrow\n• ROAD NARROWS — Road gets narrower ahead\n• PEDESTRIAN CROSSING — Pedestrians may cross ahead\n• SCHOOL ZONE — School ahead, drive slowly\n• CATTLE CROSSING — Animals may cross road\n• MEN AT WORK — Construction/work zone ahead\n• FALLING ROCKS — Rocks may fall from hillside",
+      "content_te": "ఈ signs రాబోయే ప్రమాదాల గురించి హెచ్చరిస్తాయి:\n\n• ప్రమాదకరమైన curve — నెమ్మదిగా, curve ముందుకు ఉంది\n• కుడి hair pin bend — వదులైన కుడి curve\n• ఎడమ hair pin bend — వదులైన ఎడమ curve\n• సన్నని bridge — bridge వెడల్పు సన్నగా ఉంటుంది\n• road కురుచబడుతుంది — road ముందుకు సన్నబడుతుంది\n• Pedestrian crossing — pedestrians ముందు cross చేయవచ్చు\n• School zone — school ముందు ఉంది, నెమ్మదిగా డ్రైవ్ చేయండి\n• Cattle crossing — జంతువులు road cross చేయవచ్చు\n• Men at work — construction/work zone ముందుకు ఉంది\n• Falling rocks — రాళ్లు కొండవైపు నుండి పడవచ్చు",
+      "images": ["signs/dangerous_curve.png", "signs/narrow_bridge.png", "signs/pedestrian_crossing.png", "signs/school_zone.png", "signs/men_at_work.png"]
+    },
+    {
+      "id": 12,
+      "title_en": "Traffic Signs & Symbols — Informatory Signs",
+      "title_te": "ట్రాఫిక్ సైన్స్ & సింబల్స్ — సమాచార సైన్స్",
+      "content_en": "These signs provide useful information:\n\n• PARKING — Designated parking area\n• PETROL PUMP — Fuel station ahead\n• HOSPITAL — Medical facility nearby\n• RESTAURANT — Food service available\n• TOILET — Public restroom available\n• TELEPHONE — Phone booth ahead\n• FIRST AID — Medical assistance available\n• DIRECTION — Shows direction to places\n• DISTANCE — Shows distance to destination\n• U-TURN — U-turn allowed",
+      "content_te": "ఈ signs ఉపయోగకరమైన సమాచారాన్ని అందిస్తాయి:\n\n• Parking — నిర్దేశించిన parking ప్రాంతం\n• Petrol pump — fuel station ముందుకు ఉంది\n• Hospital — medical facility దగ్గరలో ఉంది\n• Restaurant — food service అందుబాటులో ఉంది\n• Toilet — public restroom అందుబాటులో ఉంది\n• Telephone — phone booth ముందుకు ఉంది\n• First aid — medical assistance అందుబాటులో ఉంది\n• Direction — ప్రదేశాలకు direction చూపిస్తుంది\n• Distance — గమ్యస్థానానికి distance చూపిస్తుంది\n• U-turn — U-turn అనుమతించబడింది",
+      "images": ["signs/parking.png", "signs/petrol_pump.png", "signs/hospital.png", "signs/restaurant.png", "signs/u_turn.png"]
+    },
+    {
+      "id": 13,
+      "title_en": "Safe Driving Etiquette",
+      "title_te": "సురక్షిత డ్రైవింగ్ మర్యాద",
+      "content_en": "• Maintain lane discipline—stay in your lane.\n• Use indicators 30 meters before turning.\n• Overtake only from the right side.\n• Give way to faster vehicles on highways.\n• Keep safe distance (minimum 3 seconds behind vehicle ahead).\n• Do not tailgate (driving too close to vehicle in front).\n• Use dipper (low beam) at night in city areas.\n• Respect zebra crossings—stop for pedestrians.\n• Do not block intersections.\n• Be patient and avoid road rage.",
+      "content_te": "• Lane discipline నిర్వహించండి—మీ laneలో ఉండండి.\n• turn చేయడానికి 30 meters ముందు indicators వాడండి.\n• కుడి వైపు నుండి మాత్రమే overtake చేయండి.\n• highways‌లో వేగమైన vehiclesకు దారి ఇవ్వండి.\n• సురక్షితమైన దూరం నిర్వహించండి (ముందు vehicle వెనుక కనీసం 3 seconds).\n• tailgate చేయకండి (ముందు vehicleకు చాలా దగ్గరగా డ్రైవ్ చేయడం).\n• city areas‌లో రాత్రిపూట dipper (low beam) వాడండి.\n• zebra crossings‌ను respect చేయండి—pedestrians కోసం stop చేయండి.\n• intersections block చేయకండి.\n• సహనంతో ఉండి, road rage avoid చేయండి.",
+      "images": []
+    },
+    {
+      "id": 14,
+      "title_en": "Drunk Driving Awareness",
+      "title_te": "తాగి డ్రైవ్ చేయడం గురించి అవగాహన",
+      "content_en": "• Drunk driving is ILLEGAL and can lead to serious accidents.\n• Blood alcohol limit in India: 0.03% (30 mg per 100 ml of blood).\n• Penalties include heavy fines, license suspension, and jail time.\n• Even small amounts of alcohol affect judgment and reaction time.\n• If you drink, use public transport or a designated driver.\n• Never get into a vehicle with a drunk driver.\n• Report drunk drivers to police (call 100).\n• Remember: One drink can be too many for safe driving.",
+      "content_te": "• తాగి డ్రైవ్ చేయడం చట్టవిరుద్ధం మరియు తీవ్రమైన ప్రమాదాలకు దారి తీస్తుంది.\n• భారతదేశంలో రక్తం alcohol limit: 0.03% (100 ml రక్తానికి 30 mg).\n• Penalties: భారీ fines, license suspension, మరియు jail time.\n• కొద్ది మొత్తంలో alcohol కూడా judgment మరియు reaction time‌ను ప్రభావితం చేస్తుంది.\n• తాగితే, public transport లేదా designated driver వాడండి.\n• తాగిన driverతో వాహనంలోకి ఎప్పుడూ రాకండి.\n• తాగిన drivers‌ను policeకు report చేయండి (100 call చేయండి).\n• గుర్తుంచుకోండి: ఒక drink సురక్షితమైన డ్రైవింగ్‌కు చాలా ఎక్కువ కావచ్చు.",
+      "images": ["signs/no_drinking.png"]
+    },
+    {
+      "id": 15,
+      "title_en": "Mobile Usage Awareness",
+      "title_te": "మొబైల్ వాడకం గురించి అవగాహన",
+      "content_en": "• Using mobile phone while driving/riding is ILLEGAL in India.\n• It causes distraction and increases accident risk by 4 times.\n• Even hands-free calls are dangerous—they distract attention.\n• Penalty: Rs. 1,000-5,000 fine and license points deduction.\n• If you must take a call, park safely first, then answer.\n• Use voice assistants only when vehicle is stationary.\n• Never text or browse while driving.\n• Set phone to silent or use driving mode while on road.\n• Teach children: Mobile phones can wait—safety cannot.",
+      "content_te": "• డ్రైవింగ్/రైడింగ్ చేస్తున్నప్పుడు మొబైల్ ఫోన్ వాడడం భారతదేశంలో చట్టవిరుద్ధం.\n• ఇది distraction కలిగిస్తుంది మరియు ప్రమాదాల ప్రమాదాన్ని 4 రెట్లు పెంచుతుంది.\n• hands-free calls కూడా ప్రమాదకరం—అవి attention distract చేస్తాయి.\n• Penalty: రూ. 1,000-5,000 fine మరియు license points deduction.\n• call తీసుకోవలసి వస్తే, ముందుగా safely park చేసి, ఆ తర్వాత answer చేయండి.\n• వాహనం stationaryగా ఉన్నప్పుడు మాత్రమే voice assistants వాడండి.\n• డ్రైవింగ్ చేస్తున్నప్పుడు text లేదా browse చేయకండి.\n• రోడ్డుపై ఉన్నప్పుడు phone silentకు set చేయండి లేదా driving mode వాడండి.\n• పిల్లలకు నేర్పించండి: Mobile phones wait చేయవచ్చు—safety wait చేయదు.",
+      "images": ["signs/no_mobile.png"]
+    },
+    {
+      "id": 16,
+      "title_en": "Simulation Concepts — Learning by Practice",
+      "title_te": "సిమ్యులేషన్ కాన్సెప్ట్స్ — ప్రాక్టీస్ ద్వారా నేర్చుకోవడం",
+      "content_en": "Road safety simulations help you learn by practice:\n\n• Interactive scenarios show real road situations.\n• You make decisions and see consequences safely.\n• Learn correct responses without real-world risk.\n• Practice recognizing traffic signs and signals.\n• Understand right-of-way rules through examples.\n• Test your knowledge in safe virtual environment.\n• Immediate feedback helps correct mistakes.\n• Repeated practice builds good habits.\n\nRemember: Simulations are for learning. Always follow real traffic rules on actual roads.",
+      "content_te": "Road safety simulations ప్రాక్టీస్ ద్వారా నేర్చుకోవడంలో సహాయపడతాయి:\n\n• Interactive scenarios నిజ రోడ్డు situations చూపిస్తాయి.\n• మీరు decisions తీసుకుంటారు మరియు safely consequences చూస్తారు.\n• నిజ ప్రపంచ ప్రమాదం లేకుండా సరైన responses నేర్చుకోండి.\n• traffic signs మరియు signals recognize చేయడం practice చేయండి.\n• Examples ద్వారా right-of-way rules అర్థం చేసుకోండి.\n• safe virtual environment‌లో మీ knowledge test చేయండి.\n• Immediate feedback తప్పులు correct చేయడంలో సహాయపడుతుంది.\n• Repeated practice మంచి అలవాట్లను నిర్మిస్తుంది.\n\nగుర్తుంచుకోండి: Simulations learning కోసం. ఎప్పుడూ actual roads‌లో నిజ traffic rules follow చేయండి.",
+      "images": []
+    },
+    {
+      "id": 17,
+      "title_en": "Quiz Preparation Notes",
+      "title_te": "క్విజ్ సిద్ధత నోట్స్",
+      "content_en": "Key points to remember for road safety quizzes:\n\n• Traffic signals: Red=Stop, Yellow=Caution, Green=Go\n• Helmet is mandatory for two-wheeler riders\n• Seatbelt is compulsory for car driver and passengers\n• Speed limits: City (40-50 km/h), Highway (80-100 km/h)\n• Right of way: Ambulance > Pedestrian > Right side vehicle\n• No entry, No parking, and No overtaking signs must be followed\n• Mobile phone use while driving is illegal\n• Drunk driving has severe penalties\n• Pedestrian crossings must be respected\n• Emergency numbers: 108 (ambulance), 100 (police), 101 (fire)\n• Always carry valid driving license, RC, and insurance\n• Use indicators before turning or changing lanes\n• Maintain safe distance (3-second rule)\n• School zones require extra caution and slower speed",
+      "content_te": "Road safety quizzes కోసం గుర్తుంచుకోవలసిన ప్రధాన అంశాలు:\n\n• Traffic signals: Red=Stop, Yellow=Caution, Green=Go\n• Two-wheeler ridersకు Helmet తప్పనిసరి\n• Car driver మరియు passengersకు Seatbelt తప్పనిసరి\n• Speed limits: City (40-50 km/h), Highway (80-100 km/h)\n• Right of way: Ambulance > Pedestrian > Right side vehicle\n• No entry, No parking, మరియు No overtaking signs తప్పక follow చేయాలి\n• డ్రైవింగ్ చేస్తున్నప్పుడు Mobile phone వాడకం చట్టవిరుద్ధం\n• తాగి డ్రైవ్ చేయడానికి తీవ్రమైన penalties ఉన్నాయి\n• Pedestrian crossings respect చేయాలి\n• Emergency numbers: 108 (ambulance), 100 (police), 101 (fire)\n• ఎప్పుడూ valid driving license, RC, మరియు insurance carry చేయండి\n• turn లేదా lane మారే ముందు indicators వాడండి\n• సురక్షితమైన దూరం నిర్వహించండి (3-second rule)\n• School zones అదనపు జాగ్రత్త మరియు నెమ్మదిగా వేగం అవసరం",
+      "images": []
+    },
+    {
+      "id": 18,
+      "title_en": "Summary Checklist",
+      "title_te": "సంక్షిప్త చెక్‌లిస్ట్",
+      "content_en": "Before you start your journey, check:\n\n✓ Valid driving license and vehicle documents (RC, insurance)\n✓ Helmet (for two-wheeler) or Seatbelt (for car) fastened\n✓ Vehicle in good condition (brakes, lights, tires)\n✓ Mobile phone on silent or driving mode\n✓ Know your route or have navigation ready\n✓ Emergency contact numbers saved\n✓ First-aid kit in vehicle (recommended)\n✓ Fuel/battery level adequate\n✓ No alcohol consumption before driving\n✓ Well-rested and alert (not drowsy)\n\nDuring your journey:\n✓ Follow traffic signals and signs\n✓ Maintain safe speed and distance\n✓ Use indicators for turns and lane changes\n✓ Respect pedestrians and give way when needed\n✓ Stay in your lane\n✓ Never use mobile phone while driving\n✓ Give way to emergency vehicles immediately\n✓ Stay patient and avoid road rage",
+      "content_te": "మీ journey మొదలుపెట్టే ముందు check చేయండి:\n\n✓ Valid driving license మరియు vehicle documents (RC, insurance)\n✓ Helmet (two-wheelerకు) లేదా Seatbelt (carకు) fasten చేయబడింది\n✓ వాహనం మంచి స్థితిలో ఉంది (brakes, lights, tires)\n✓ Mobile phone silent లేదా driving mode‌లో ఉంది\n✓ మీ route తెలుసు లేదా navigation ready\n✓ Emergency contact numbers saved\n✓ వాహనంలో First-aid kit (సిఫార్సు చేయబడింది)\n✓ Fuel/battery level సరిపోతుంది\n✓ డ్రైవింగ్ ముందు alcohol consumption లేదు\n✓ Well-rested మరియు alert (drowsy కాదు)\n\nమీ journey సమయంలో:\n✓ Traffic signals మరియు signs follow చేయండి\n✓ సురక్షితమైన speed మరియు distance నిర్వహించండి\n✓ turns మరియు lane changes కోసం indicators వాడండి\n✓ Pedestrians respect చేయండి మరియు అవసరమైనప్పుడు దారి ఇవ్వండి\n✓ మీ laneలో ఉండండి\n✓ డ్రైవింగ్ చేస్తున్నప్పుడు మొబైల్ ఫోన్ వాడకండి\n✓ Emergency vehiclesకు వెంటనే దారి ఇవ్వండి\n✓ సహనంతో ఉండి, road rage avoid చేయండి",
+      "images": []
+    }
+  ]
+}

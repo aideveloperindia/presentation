@@ -1,0 +1,13 @@
+PLACE YOUR SPEAKER NOTES PDF HERE
+
+File name: RoadSafetyNotes2.pdf
+Location: public/assets/speaker-notes/RoadSafetyNotes2.pdf
+
+Instructions:
+1. Copy your RoadSafetyNotes2.pdf file to this directory
+2. The full path should be: public/assets/speaker-notes/RoadSafetyNotes2.pdf
+3. The download button will automatically work once the file is in place
+
+If you need to copy from /mnt/data/RoadSafetyNotes2.pdf:
+- Copy that file to: public/assets/speaker-notes/RoadSafetyNotes2.pdf
+
